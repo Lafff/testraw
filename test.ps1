@@ -1,1 +1,1 @@
-powershell Write-Host 'Hello, World! ${option.BUnumber}'
+powershell Write-Host 'Hello, World! @option.BUnumber@'
